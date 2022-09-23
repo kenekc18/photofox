@@ -1,0 +1,207 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background: black;
+    font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+#parent-container{
+    margin:20px 35px;
+    justify-content:space-between;
+    align-items: center;
+    border-bottom:1px solid #fff;
+}
+
+#parent-container a{
+    color:#fff;
+}
+
+#navbarNav{
+    text-transform: uppercase;
+}
+
+#Toggler{
+    color:#fff;
+}
+
+#logo-id{
+    margin-bottom: 15px;
+}
+
+#contact{
+    text-transform: uppercase;
+}
+
+#heading{
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+
+#photo{
+    text-transform: uppercase;
+}
+
+/* #iggy{
+    background-image: url(./home/images/Mask\ group.svg);
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-bottom:15px;
+    max-width:100%;
+    min-height: 400px;
+} */
+
+.hero {
+    background-image: url(./images/Mask\ group.svg); 
+    background-repeat: no-repeat; 
+    background-size:cover; 
+    filter: opacity(70%); 
+    height: 400px;
+    color: white;
+    z-index: 1;
+}
+
+.carosouel{
+    width:300px;
+    min-height: 100px;
+}
+
+.slider img{
+    width:auto;
+    height:250px;
+    object-fit: cover;
+}
+
+#border-txt{
+    text-transform: uppercase;
+}
+
+/* #right-content{
+    margin-top: 15px;
+} */
+
+.sking{
+    height:600px; 
+    width:420px;
+}
+.veggies{
+    height:350px; 
+    width:450px;
+}
+.imggo{
+    min-height:300px;
+    width:300px;
+}
+
+.imggo-mid{
+    width: 300px;
+    min-height:400px;
+}
+
+#text{
+    position: absolute;
+}
+
+.text{
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.works-btn{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.arrow-circle{
+    width:20px;
+    height: 20px;
+    padding-bottom: 3px;
+    padding-left: 4px;
+    
+}
+
+.foot-txt{
+    text-transform: uppercase;
+    color:rgb(63, 50, 50);
+    padding:0 10px;
+    width:550px;
+}
+
+.btn{
+    text-transform: uppercase;
+    width:250px;
+}
+
+.food{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000;
+}
+
+.portrait{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000;
+    padding-top: 10px; 
+}
+
+.architecture{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000; 
+    padding-top: 10px; 
+}
+
+.concept{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 10px; 
+}
+
+.arrow-right-p{
+    width:20px;
+    height: 20px;
+}
+
+#dark-button{
+    width: 180px;
+    word-spacing: 3px;
+    font-size: 14px;
+}
+
+.img-txt{
+    display: flex;
+    margin:10px 15px;
+}
+
+.img-txt-02{
+    text-transform: uppercase;
+    margin:0 15px;
+    padding: 0 15px;
+}
+
+.foot{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    border-bottom:  1px solid #fff;
+}
+
+.foot a{
+    text-decoration: none;
+    color:#fff;
+    text-transform: uppercase;
+}
+
+.foot_logo{
+    display: flex;
+    justify-content:space-between;
+}

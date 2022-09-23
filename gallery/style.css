@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.contain{
+    background: #000;
+}
+
+p a{
+    text-decoration: none;
+    color:#fff;
+    text-transform: uppercase;
+}
+
+#parent-container{
+margin:20px 35px;
+justify-content:space-between;
+align-items: center;
+border-bottom:1px solid #fff;
+}
+
+#parent-container a{
+    color:#fff;
+}
+
+#navbarNav{
+    text-transform: uppercase;
+}
+
+#Togle{
+    background:#fff;
+}
+
+.img00{
+    min-height:300px;
+    width:450px;
+}
+
+.foot{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.foot a{
+    text-decoration: none;
+    color:#fff;
+    text-transform: uppercase;
+}
+
+.foot_logo{
+    display: flex;
+    justify-content:space-between;
+    border-bottom:  1px solid #fff;
+}
